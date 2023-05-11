@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aapis aka Ryan Priebe
 - I like databases, automation, macOS apps, privacy and chatbots
-- I'm teaching myself Swift and macOS app development at the moment.
+- Currently learning Swift/macOS APIs and ML.
 - You can find me [@aapis@mastodon.social](https://mastodon.world/@aapis)
 
 <!---
