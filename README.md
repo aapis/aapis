@@ -2,7 +2,6 @@
 - I like databases, automation, macOS apps, privacy and NON-GENERATIVE chatbots
 - I work regularly with PHP and Swift, but have many years experience with Python, Ruby, various shell scripting languages, plus a wee bit of C# and C++.
 - Currently learning Swift/macOS APIs and ML.
-- You can find me [@aapis@mastodon.social](https://mastodon.world/@aapis)
 
 <!---
 aapis/aapis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
