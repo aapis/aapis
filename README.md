@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aapis aka Ryan Priebe
 - I like databases, automation, macOS apps, privacy and NON-GENERATIVE chatbots
-- I work regularly with PHP and Swift, but have many years experience with Python, Ruby, various shell scripting languages, plus a wee bit of C# and C++.
+- I work regularly with PHP and Swift, but have many years experience with Python, Ruby, various shell scripting languages, plus a wee bit of C#, Obj-C and C++.
 - Currently learning Swift/macOS APIs and ML.
 
 <!---
