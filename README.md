@@ -1,4 +1,4 @@
-- Moving to codeberg (link soon), this account will remain but the repos will not longer be updated after Oct 2025.
+- Moving to codeberg (link soon), this account will remain but the repos won't be updated after Oct 2025.
 - Go fuck yourselves, Microsoft.
 <!---
 aapis/aapis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
